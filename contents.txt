@@ -1,0 +1,7 @@
+XMLRPC::Liteからの投稿テスト
+
+<strong>でかでかとこんにちわ！</strong>
+
+外部ファイル(contents.txt)の内容をそのままMTにポストするPerlスクリプトです。
+すげー！
+

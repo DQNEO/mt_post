@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<methodCall>
+    <methodName>metaWeblog.newPost</methodName>
+    <params>
+        <param>
+            <value><string>5</string></value>
+        </param>
+        <param>
+            <value><string>userhoge</string></value>
+        </param>
+        <param>
+            <value><string>himitu</string></value>
+        </param>
+        <param>
+            <value>
+                <struct>
+                    <member>
+                        <name>title</name><value><string>XMLRPCとPOSTコマンドによる投稿テスト-1</string></value>
+                    </member>
+                    <member>
+                        <name>description</name><value><string>これから改行します。
+改行しました。
+&lt;h4&gt;これはHTMLのH4タグです。&lt;/h4&gt;
+</string></value>
+                    </member>
+                </struct>
+            </value>
+        </param>
+        <param>
+            <value><boolean>0</boolean></value>
+        </param>
+    </params>
+</methodCall>
